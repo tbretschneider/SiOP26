@@ -1,3 +1,6 @@
 [submodule "slides"]
 	path = slides
 	url = git@github.com:tbretschneider/siop26-slides.git
+[submodule "code"]
+	path = code
+	url = git@gitlab.com:tobi-projects/aa/code.git
